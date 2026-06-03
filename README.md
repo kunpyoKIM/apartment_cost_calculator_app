@@ -1,6 +1,6 @@
-# apartment_price_reverse_estimator_app
+# apartment_cost_calculator_app
 
-아파트 공사비 및 PF 사업성 계산 React 앱입니다.
+아파트 공사비 및 PF 사업성 계산 앱
 
 ## 실행 방법
 
